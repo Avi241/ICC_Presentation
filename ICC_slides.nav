@@ -4,85 +4,97 @@
 \headcommand {\beamer@framepages {2}{2}}
 \headcommand {\beamer@sectionpages {1}{2}}
 \headcommand {\beamer@subsectionpages {1}{2}}
-\headcommand {\sectionentry {1}{Introduction}{3}{Introduction}{0}}
-\headcommand {\beamer@subsectionpages {3}{2}}
-\headcommand {\beamer@subsectionentry {0}{1}{1}{3}{Multi-Agent Systems}}
-\headcommand {\slideentry {1}{1}{1}{3/3}{Multi-Agent Systems}{0}}
+\headcommand {\slideentry {1}{0}{1}{3/3}{}{0}}
 \headcommand {\beamer@framepages {3}{3}}
+\headcommand {\beamer@sectionpages {3}{3}}
 \headcommand {\beamer@subsectionpages {3}{3}}
-\headcommand {\beamer@subsectionentry {0}{1}{2}{4}{Simulation Platform for Multiagent System}}
-\headcommand {\slideentry {1}{2}{1}{4/4}{Simulation Platform for Multiagent System}{0}}
-\headcommand {\beamer@framepages {4}{4}}
-\headcommand {\beamer@subsectionpages {4}{4}}
-\headcommand {\beamer@subsectionentry {0}{1}{3}{5}{MASCOT}}
-\headcommand {\slideentry {1}{3}{1}{5/5}{MASCOT}{0}}
-\headcommand {\beamer@framepages {5}{5}}
-\headcommand {\beamer@sectionpages {3}{5}}
-\headcommand {\beamer@subsectionpages {5}{5}}
-\headcommand {\sectionentry {2}{Preliminaries}{6}{Preliminaries}{0}}
-\headcommand {\slideentry {2}{0}{1}{6/6}{}{0}}
-\headcommand {\beamer@framepages {6}{6}}
-\headcommand {\beamer@subsectionpages {6}{6}}
-\headcommand {\beamer@subsectionentry {0}{2}{1}{7}{Frame of Reference}}
-\headcommand {\slideentry {2}{1}{1}{7/7}{Frame of Reference}{0}}
-\headcommand {\beamer@framepages {7}{7}}
-\headcommand {\beamer@subsectionpages {7}{7}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{8}{Quadcopter Dynamics}}
-\headcommand {\slideentry {2}{2}{1}{8/8}{Quadcopter Dynamics}{0}}
-\headcommand {\beamer@framepages {8}{8}}
-\headcommand {\beamer@subsectionpages {8}{8}}
-\headcommand {\beamer@subsectionentry {0}{2}{3}{9}{Quadcopter Dynamics as Double Integrator}}
-\headcommand {\slideentry {2}{3}{1}{9/9}{Quadcopter Dynamics as Double Integrator}{0}}
-\headcommand {\beamer@framepages {9}{9}}
-\headcommand {\beamer@sectionpages {6}{9}}
-\headcommand {\beamer@subsectionpages {9}{9}}
-\headcommand {\sectionentry {3}{MASCOT:Structure and Features}{10}{MASCOT:Structure and Features}{0}}
-\headcommand {\slideentry {3}{0}{1}{10/10}{}{0}}
-\headcommand {\beamer@framepages {10}{10}}
-\headcommand {\beamer@subsectionpages {10}{10}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{11}{Tools Used}}
-\headcommand {\slideentry {3}{1}{1}{11/11}{Tools Used}{0}}
+\headcommand {\sectionentry {2}{Introduction}{4}{Introduction}{0}}
+\headcommand {\beamer@subsectionpages {4}{3}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{4}{Multi-Agent Systems}}
+\headcommand {\slideentry {2}{1}{1}{4/6}{Multi-Agent Systems}{0}}
+\headcommand {\beamer@framepages {4}{6}}
+\headcommand {\beamer@subsectionpages {4}{6}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{7}{Simulation Platform for Multiagent System}}
+\headcommand {\slideentry {2}{2}{1}{7/8}{Simulation Platform for Multiagent System}{0}}
+\headcommand {\beamer@framepages {7}{8}}
+\headcommand {\beamer@subsectionpages {7}{8}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{9}{MASCOT}}
+\headcommand {\slideentry {2}{3}{1}{9/10}{MASCOT}{0}}
+\headcommand {\beamer@framepages {9}{10}}
+\headcommand {\beamer@sectionpages {4}{10}}
+\headcommand {\beamer@subsectionpages {9}{10}}
+\headcommand {\slideentry {3}{0}{1}{11/11}{}{0}}
 \headcommand {\beamer@framepages {11}{11}}
+\headcommand {\beamer@sectionpages {11}{11}}
 \headcommand {\beamer@subsectionpages {11}{11}}
-\headcommand {\beamer@subsectionentry {0}{3}{2}{12}{Control Block}}
-\headcommand {\slideentry {3}{2}{1}{12/12}{Control Block}{0}}
+\headcommand {\sectionentry {4}{Preliminaries}{12}{Preliminaries}{0}}
+\headcommand {\beamer@subsectionpages {12}{11}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{12}{Frame of Reference}}
+\headcommand {\slideentry {4}{1}{1}{12/12}{Frame of Reference}{0}}
 \headcommand {\beamer@framepages {12}{12}}
 \headcommand {\beamer@subsectionpages {12}{12}}
-\headcommand {\beamer@subsectionentry {0}{3}{3}{13}{Architecture}}
-\headcommand {\slideentry {3}{3}{1}{13/13}{Architecture}{0}}
-\headcommand {\beamer@framepages {13}{13}}
-\headcommand {\beamer@subsectionpages {13}{13}}
-\headcommand {\beamer@subsectionentry {0}{3}{4}{14}{Features}}
-\headcommand {\slideentry {3}{4}{1}{14/14}{Features}{0}}
-\headcommand {\beamer@framepages {14}{14}}
-\headcommand {\beamer@subsectionpages {14}{14}}
-\headcommand {\beamer@subsectionentry {0}{3}{5}{15}{Configuration}}
-\headcommand {\slideentry {3}{5}{1}{15/15}{Configuration}{0}}
-\headcommand {\beamer@framepages {15}{15}}
-\headcommand {\beamer@sectionpages {10}{15}}
-\headcommand {\beamer@subsectionpages {15}{15}}
-\headcommand {\sectionentry {4}{Examples}{16}{Examples}{0}}
-\headcommand {\slideentry {4}{0}{1}{16/16}{}{0}}
-\headcommand {\beamer@framepages {16}{16}}
-\headcommand {\beamer@subsectionpages {16}{16}}
-\headcommand {\beamer@subsectionentry {0}{4}{1}{17}{Way-Point Navigation}}
-\headcommand {\slideentry {4}{1}{1}{17/17}{Way-Point Navigation}{0}}
-\headcommand {\beamer@framepages {17}{17}}
-\headcommand {\beamer@subsectionpages {17}{17}}
-\headcommand {\beamer@subsectionentry {0}{4}{2}{18}{Consensus Algorithm}}
-\headcommand {\slideentry {4}{2}{1}{18/18}{Consensus Algorithm}{0}}
-\headcommand {\beamer@framepages {18}{18}}
-\headcommand {\beamer@subsectionpages {18}{18}}
-\headcommand {\beamer@subsectionentry {0}{4}{3}{19}{Min-Max Time Consensus}}
-\headcommand {\slideentry {4}{3}{1}{19/19}{Min-Max Time Consensus}{0}}
-\headcommand {\beamer@framepages {19}{19}}
-\headcommand {\beamer@sectionpages {16}{19}}
-\headcommand {\beamer@subsectionpages {19}{19}}
-\headcommand {\sectionentry {5}{Consclusions and Future Work}{20}{Consclusions and Future Work}{0}}
-\headcommand {\slideentry {5}{0}{1}{20/20}{}{0}}
-\headcommand {\beamer@framepages {20}{20}}
-\headcommand {\beamer@partpages {1}{20}}
-\headcommand {\beamer@subsectionpages {20}{20}}
-\headcommand {\beamer@sectionpages {20}{20}}
-\headcommand {\beamer@documentpages {20}}
-\headcommand {\gdef \inserttotalframenumber {19}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{13}{Quadcopter Dynamics}}
+\headcommand {\slideentry {4}{2}{1}{13/18}{Quadcopter Dynamics}{0}}
+\headcommand {\beamer@framepages {13}{18}}
+\headcommand {\beamer@subsectionpages {13}{18}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{19}{Quadcopter Dynamics as Double Integrator}}
+\headcommand {\slideentry {4}{3}{1}{19/20}{Quadcopter Dynamics as Double Integrator}{0}}
+\headcommand {\beamer@framepages {19}{20}}
+\headcommand {\beamer@sectionpages {12}{20}}
+\headcommand {\beamer@subsectionpages {19}{20}}
+\headcommand {\slideentry {5}{0}{1}{21/21}{}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\beamer@sectionpages {21}{21}}
+\headcommand {\beamer@subsectionpages {21}{21}}
+\headcommand {\sectionentry {6}{MASCOT:Structure and Features}{22}{MASCOT:Structure and Features}{0}}
+\headcommand {\beamer@subsectionpages {22}{21}}
+\headcommand {\beamer@subsectionentry {0}{6}{1}{22}{Tools Used}}
+\headcommand {\slideentry {6}{1}{1}{22/24}{Tools Used}{0}}
+\headcommand {\beamer@framepages {22}{24}}
+\headcommand {\beamer@subsectionpages {22}{24}}
+\headcommand {\beamer@subsectionentry {0}{6}{2}{25}{Control Block}}
+\headcommand {\slideentry {6}{2}{1}{25/25}{Control Block}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\beamer@subsectionpages {25}{25}}
+\headcommand {\beamer@subsectionentry {0}{6}{3}{26}{Architecture}}
+\headcommand {\slideentry {6}{3}{1}{26/26}{Architecture}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\beamer@subsectionpages {26}{26}}
+\headcommand {\beamer@subsectionentry {0}{6}{4}{27}{Feature and Configuration of Simulation Testbed}}
+\headcommand {\slideentry {6}{4}{1}{27/28}{Feature and Configuration of Simulation Testbed}{0}}
+\headcommand {\beamer@framepages {27}{28}}
+\headcommand {\beamer@sectionpages {22}{28}}
+\headcommand {\beamer@subsectionpages {27}{28}}
+\headcommand {\slideentry {7}{0}{1}{29/29}{}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\beamer@sectionpages {29}{29}}
+\headcommand {\beamer@subsectionpages {29}{29}}
+\headcommand {\sectionentry {8}{Examples}{30}{Examples}{0}}
+\headcommand {\beamer@subsectionpages {30}{29}}
+\headcommand {\beamer@subsectionentry {0}{8}{1}{30}{Way-Point Navigation}}
+\headcommand {\slideentry {8}{1}{1}{30/30}{Way-Point Navigation}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\beamer@subsectionpages {30}{30}}
+\headcommand {\beamer@subsectionentry {0}{8}{2}{31}{Consensus Algorithm (Linear)}}
+\headcommand {\slideentry {8}{2}{1}{31/31}{Consensus Algorithm (Linear)}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\beamer@subsectionpages {31}{31}}
+\headcommand {\beamer@subsectionentry {0}{8}{3}{32}{Min-Max Time Consensus}}
+\headcommand {\slideentry {8}{3}{1}{32/32}{Min-Max Time Consensus}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\beamer@sectionpages {30}{32}}
+\headcommand {\beamer@subsectionpages {32}{32}}
+\headcommand {\slideentry {9}{0}{1}{33/33}{}{0}}
+\headcommand {\beamer@framepages {33}{33}}
+\headcommand {\beamer@sectionpages {33}{33}}
+\headcommand {\beamer@subsectionpages {33}{33}}
+\headcommand {\sectionentry {10}{Conclusion and Future Work}{34}{Conclusion and Future Work}{0}}
+\headcommand {\slideentry {10}{0}{1}{34/35}{}{0}}
+\headcommand {\beamer@framepages {34}{35}}
+\headcommand {\slideentry {10}{0}{2}{36/36}{}{0}}
+\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\beamer@partpages {1}{36}}
+\headcommand {\beamer@subsectionpages {34}{36}}
+\headcommand {\beamer@sectionpages {34}{36}}
+\headcommand {\beamer@documentpages {36}}
+\headcommand {\gdef \inserttotalframenumber {21}}

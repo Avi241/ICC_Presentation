@@ -1,0 +1,18 @@
+\beamer@slide {Fig:pos_in}{9}
+\beamer@slide {Fig:pos_fi}{9}
+\beamer@slide {Fig:Frame_of_Reference}{12}
+\beamer@slide {eq:trans_dynamics}{13}
+\beamer@slide {eq:react_torque_z}{13}
+\beamer@slide {eq:total_force}{19}
+\beamer@slide {Fig:Quadcopter Dynamics}{19}
+\beamer@slide {Fig:Control Block}{25}
+\beamer@slide {Fig:System Architecture}{26}
+\beamer@slide {x-pos-control}{30}
+\beamer@slide {y-pos-control}{30}
+\beamer@slide {Fig:pos_x}{30}
+\beamer@slide {Fig:pos_y}{30}
+\beamer@slide {Fig:pos_x_c}{31}
+\beamer@slide {Fig:pos_y_c}{31}
+\beamer@slide {Fig:pos_x_m}{32}
+\beamer@slide {Fig:pos_y_m}{32}
+\beamer@slide {Fig:github}{36}

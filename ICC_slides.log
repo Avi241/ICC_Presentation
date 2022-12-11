@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.7.30)  9 DEC 2022 22:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.7.30)  11 DEC 2022 12:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/ICC_Presentation/ICC_slides.tex
-(/home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/ICC_Presentation/ICC_slides.tex
+**/home/arvind/ICC_Presentation/ICC_slides.tex
+(/home/arvind/ICC_Presentation/ICC_slides.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2019/09/29 v3.57 A class for typesetting presentations
@@ -581,8 +581,6 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \extratabsurround=\skip65
 \backup@length=\skip66
 \ar@cellbox=\box76
-) (/usr/share/texlive/texmf-dist/tex/latex/was/gensymb.sty
-Package: gensymb 2003/07/02 v1.0 (WaS)
 ) (/usr/share/texlive/texmf-dist/tex/latex/animate/animate.sty
 Package: animate 2019/12/03 PDF & SVG animations from files and inline graphics
  (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
@@ -700,7 +698,26 @@ Package babel Info: \l@australian = using hyphenrules for ukenglish
 (babel)             (\language71) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 (babel)             (\language71) on input line 108.
-)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+ (/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip70
+\RaggedLeftLeftskip=\skip71
+\RaggedRightLeftskip=\skip72
+\CenteringRightskip=\skip73
+\RaggedLeftRightskip=\skip74
+\RaggedRightRightskip=\skip75
+\CenteringParfillskip=\skip76
+\RaggedLeftParfillskip=\skip77
+\RaggedRightParfillskip=\skip78
+\JustifyingParfillskip=\skip79
+\CenteringParindent=\skip80
+\RaggedLeftParindent=\skip81
+\RaggedRightParindent=\skip82
+\JustifyingParindent=\skip83
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
@@ -752,32 +769,7 @@ File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \tikz@expandcount=\count369
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-))) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerfontthemeserif.sty) (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
-File: pgflibraryarrows.meta.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfarrowinset=\dimen333
-\pgfarrowlength=\dimen334
-\pgfarrowwidth=\dimen335
-\pgfarrowlinewidth=\dimen336
-) (/usr/share/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
-Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
- (/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
-Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
-)
-\CenteringLeftskip=\skip70
-\RaggedLeftLeftskip=\skip71
-\RaggedRightLeftskip=\skip72
-\CenteringRightskip=\skip73
-\RaggedLeftRightskip=\skip74
-\RaggedRightRightskip=\skip75
-\CenteringParfillskip=\skip76
-\RaggedLeftParfillskip=\skip77
-\RaggedRightParfillskip=\skip78
-\JustifyingParfillskip=\skip79
-\CenteringParindent=\skip80
-\RaggedLeftParindent=\skip81
-\RaggedRightParindent=\skip82
-\JustifyingParindent=\skip83
-) (/usr/share/texlive/texmf-dist/tex/latex/tkz-euclide/tkz-euclide.sty
+))) (/usr/share/texlive/texmf-dist/tex/latex/tkz-euclide/tkz-euclide.sty
 2020/01/24 3.02c tkz-euclide.sty
 Package: tkz-euclide 2020/01/24 3.02c for euclidan geometry 
 (/usr/share/texlive/texmf-dist/tex/latex/tkz-base/tkz-base.sty
@@ -789,8 +781,14 @@ File: tikzlibraryangles.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\arrowsize=\dimen337
-)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybabel.code.tex
+\arrowsize=\dimen333
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowinset=\dimen334
+\pgfarrowlength=\dimen335
+\pgfarrowwidth=\dimen336
+\pgfarrowlinewidth=\dimen337
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybabel.code.tex
 File: tikzlibrarybabel.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
@@ -993,27 +991,25 @@ File: tkz-tool-arith.tex tkz-tool-arith 3.02 c
 2020/01/24 3.02c tkz-obj-eu-show.tex
 ) (/usr/share/texlive/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-triangles.tex
 2020/01/24 3.02c tkz-obj-eu-triangles.tex
-)) (/usr/share/texlive/texmf-dist/tex/latex/appendixnumberbeamer/appendixnumberbeamer.sty)
-\c@proposition=\count394
- (/home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/ICC_Presentation/ICC_slides.aux)
+)) (/usr/share/texlive/texmf-dist/tex/latex/appendixnumberbeamer/appendixnumberbeamer.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerfontthemeserif.sty) (/home/arvind/ICC_Presentation/ICC_slides.aux)
 \openout1 = `ICC_slides.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1051,16 +1047,16 @@ LaTeX Font Info:    ... okay on input line 124.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count395
+\scratchcounter=\count394
 \scratchdimen=\dimen366
 \scratchbox=\box90
-\nofMPsegments=\count396
-\nofMParguments=\count397
+\nofMPsegments=\count395
+\nofMParguments=\count396
 \everyMPshowfont=\toks52
-\MPscratchCnt=\count398
+\MPscratchCnt=\count397
 \MPscratchDim=\dimen367
-\MPnumerator=\count399
-\makeMPintoPDFobject=\count400
+\MPnumerator=\count398
+\makeMPintoPDFobject=\count399
 \everyMPtoPDFconversion=\toks53
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1069,7 +1065,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 )) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box91
-Package hyperref Info: Link coloring OFF on input line 124.
+Package hyperref Info: Link coloring OFF on input line 49.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1077,12 +1073,12 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count401
+\c@section@level=\count400
 )
-LaTeX Info: Redefining \ref on input line 124.
-LaTeX Info: Redefining \pageref on input line 124.
-LaTeX Info: Redefining \nameref on input line 124.
- (/home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/ICC_Presentation/ICC_slides.out) (/home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/ICC_Presentation/ICC_slides.out)
+LaTeX Info: Redefining \ref on input line 49.
+LaTeX Info: Redefining \pageref on input line 49.
+LaTeX Info: Redefining \nameref on input line 49.
+ (/home/arvind/ICC_Presentation/ICC_slides.out) (/home/arvind/ICC_Presentation/ICC_slides.out)
 \@outlinefile=\write5
 \openout5 = `ICC_slides.out'.
 
@@ -1102,37 +1098,22 @@ Dictionary: translator-theorem-dictionary, Language: English
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \celsius on input line 124.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 124.
-
-
-Package gensymb Warning: Not defining \perthousand.
-
-LaTeX Info: Redefining \ohm on input line 124.
-Package gensymb Info: Using \Omega for \ohm on input line 124.
-
-Package gensymb Warning: Not defining \micro.
-
-ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 124.
- (/home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/ICC_Presentation/ICC_slides.nav)
-<icc_l.png, id=113, 273.02pt x 177.66376pt>
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 49.
+ (/home/arvind/ICC_Presentation/ICC_slides.nav)
+<icc_l.png, id=129, 273.02pt x 177.66376pt>
 File: icc_l.png Graphic file (type png)
 <use icc_l.png>
-Package pdftex.def Info: icc_l.png  used on input line 133.
-(pdftex.def)             Requested size: 68.25482pt x 44.41582pt.
-<IITDh_Logo.png, id=115, 1204.5pt x 1008.76875pt>
+Package pdftex.def Info: icc_l.png  used on input line 58.
+(pdftex.def)             Requested size: 81.90663pt x 53.29953pt.
+<IITDh_Logo.png, id=131, 1204.5pt x 1008.76875pt>
 File: IITDh_Logo.png Graphic file (type png)
 <use IITDh_Logo.png>
-Package pdftex.def Info: IITDh_Logo.png  used on input line 133.
-(pdftex.def)             Requested size: 48.17178pt x 40.34387pt.
+Package pdftex.def Info: IITDh_Logo.png  used on input line 58.
+(pdftex.def)             Requested size: 60.22852pt x 50.44139pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/ICC_Presentation/icc_l.png> </home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/ICC_Presentation/IITDh_Logo.png>] (/home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/ICC_Presentation/ICC_slides.toc)
-Overfull \vbox (0.35922pt too high) detected at line 138
- []
-
-[2
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/arvind/ICC_Presentation/icc_l.png> </home/arvind/ICC_Presentation/IITDh_Logo.png>] (/home/arvind/ICC_Presentation/ICC_slides.toc) [2
 
 ] [3
 
@@ -1146,31 +1127,268 @@ Overfull \vbox (0.35922pt too high) detected at line 138
 
 ] [8
 
-] [9
+]
+<10-drone-position-not-aligned.png, id=223, 1638.12pt x 1009.7725pt>
+File: 10-drone-position-not-aligned.png Graphic file (type png)
+<use 10-drone-position-not-aligned.png>
+Package pdftex.def Info: 10-drone-position-not-aligned.png  used on input line 173.
+(pdftex.def)             Requested size: 147.42444pt x 90.8756pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 173.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 173.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<10-drone-position-aligned.png, id=224, 1648.1575pt x 1012.78375pt>
+File: 10-drone-position-aligned.png Graphic file (type png)
+<use 10-drone-position-aligned.png>
+Package pdftex.def Info: 10-drone-position-aligned.png  used on input line 173.
+(pdftex.def)             Requested size: 148.32777pt x 91.14659pt.
+ [9
 
-] [10
+ </home/arvind/ICC_Presentation/10-drone-position-not-aligned.png> </home/arvind/ICC_Presentation/10-drone-position-aligned.png>]
+File: 10-drone-position-not-aligned.png Graphic file (type png)
+<use 10-drone-position-not-aligned.png>
+Package pdftex.def Info: 10-drone-position-not-aligned.png  used on input line 173.
+(pdftex.def)             Requested size: 147.42444pt x 90.8756pt.
+File: 10-drone-position-aligned.png Graphic file (type png)
+<use 10-drone-position-aligned.png>
+Package pdftex.def Info: 10-drone-position-aligned.png  used on input line 173.
+(pdftex.def)             Requested size: 148.32777pt x 91.14659pt.
+ [10
 
 ] [11
 
-] [12
+]
+Package epstopdf Info: Source file: <Quadcopter.eps>
+(epstopdf)                    date: 2022-12-10 06:39:12
+(epstopdf)                    size: 257092 bytes
+(epstopdf)             Output file: <Quadcopter-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-12-10 12:11:30
+(epstopdf)                    size: 255542 bytes
+(epstopdf)             Command: <repstopdf --outfile=Quadcopter-eps-converted-to.pdf Quadcopter.eps>
+(epstopdf)             \includegraphics on input line 192.
+Package epstopdf Info: Output file is already uptodate.
+<Quadcopter-eps-converted-to.pdf, id=253, 498.86375pt x 352.31625pt>
+File: Quadcopter-eps-converted-to.pdf Graphic file (type pdf)
+<use Quadcopter-eps-converted-to.pdf>
+Package pdftex.def Info: Quadcopter-eps-converted-to.pdf  used on input line 192.
+(pdftex.def)             Requested size: 249.43126pt x 176.15768pt.
+ [12
 
-] [13
+ </home/arvind/ICC_Presentation/Quadcopter-eps-converted-to.pdf>]
+Overfull \vbox (21.84656pt too high) detected at line 252
+ []
 
-] [14
-
-] [15
-
-] [16
-
-] [17
-
-] [18
-
-] [19
-
-] [20
+[13
 
 ]
+Overfull \vbox (21.84656pt too high) detected at line 252
+ []
+
+[14
+
+]
+Overfull \vbox (21.84656pt too high) detected at line 252
+ []
+
+[15
+
+]
+Overfull \vbox (21.84656pt too high) detected at line 252
+ []
+
+[16
+
+]
+Overfull \vbox (21.84656pt too high) detected at line 252
+ []
+
+[17
+
+]
+Overfull \vbox (21.84656pt too high) detected at line 252
+ []
+
+[18
+
+]
+Overfull \hbox (9.49937pt too wide) detected at line 298
+\OT1/cmr/bx/n/10 f[] \OT1/cmr/m/n/10 = \OT1/cmr/bx/n/10 R\OML/cmm/m/it/10 x [] \OT1/cmr/bx/n/10 R\OML/cmm/m/it/10 y [] [][][] [][]
+ []
+
+Package epstopdf Info: Source file: <Quadcopter.eps>
+(epstopdf)                    date: 2022-12-10 06:39:12
+(epstopdf)                    size: 257092 bytes
+(epstopdf)             Output file: <Quadcopter-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-12-10 12:11:30
+(epstopdf)                    size: 255542 bytes
+(epstopdf)             Command: <repstopdf --outfile=Quadcopter-eps-converted-to.pdf Quadcopter.eps>
+(epstopdf)             \includegraphics on input line 298.
+Package epstopdf Info: Output file is already uptodate.
+File: Quadcopter-eps-converted-to.pdf Graphic file (type pdf)
+<use Quadcopter-eps-converted-to.pdf>
+Package pdftex.def Info: Quadcopter-eps-converted-to.pdf  used on input line 298.
+(pdftex.def)             Requested size: 139.6809pt x 98.64787pt.
+[19
+
+]
+Overfull \hbox (9.49937pt too wide) detected at line 298
+\OT1/cmr/bx/n/10 f[] \OT1/cmr/m/n/10 = \OT1/cmr/bx/n/10 R\OML/cmm/m/it/10 x [] \OT1/cmr/bx/n/10 R\OML/cmm/m/it/10 y [] [][] []
+ []
+
+Package epstopdf Info: Source file: <Quadcopter.eps>
+(epstopdf)                    date: 2022-12-10 06:39:12
+(epstopdf)                    size: 257092 bytes
+(epstopdf)             Output file: <Quadcopter-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-12-10 12:11:30
+(epstopdf)                    size: 255542 bytes
+(epstopdf)             Command: <repstopdf --outfile=Quadcopter-eps-converted-to.pdf Quadcopter.eps>
+(epstopdf)             \includegraphics on input line 298.
+Package epstopdf Info: Output file is already uptodate.
+File: Quadcopter-eps-converted-to.pdf Graphic file (type pdf)
+<use Quadcopter-eps-converted-to.pdf>
+Package pdftex.def Info: Quadcopter-eps-converted-to.pdf  used on input line 298.
+(pdftex.def)             Requested size: 139.6809pt x 98.64787pt.
+[20
+
+] [21
+
+]
+Overfull \vbox (12.81032pt too high) detected at line 335
+ []
+
+[22
+
+]
+Overfull \vbox (12.81032pt too high) detected at line 335
+ []
+
+[23
+
+]
+Overfull \vbox (12.81032pt too high) detected at line 335
+ []
+
+[24
+
+]
+Package epstopdf Info: Source file: <Control-block.eps>
+(epstopdf)                    date: 2022-12-10 06:39:12
+(epstopdf)                    size: 270849 bytes
+(epstopdf)             Output file: <Control-block-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-12-10 21:17:14
+(epstopdf)                    size: 84389 bytes
+(epstopdf)             Command: <repstopdf --outfile=Control-block-eps-converted-to.pdf Control-block.eps>
+(epstopdf)             \includegraphics on input line 346.
+Package epstopdf Info: Output file is already uptodate.
+<Control-block-eps-converted-to.pdf, id=373, 477.785pt x 308.15125pt>
+File: Control-block-eps-converted-to.pdf Graphic file (type pdf)
+<use Control-block-eps-converted-to.pdf>
+Package pdftex.def Info: Control-block-eps-converted-to.pdf  used on input line 346.
+(pdftex.def)             Requested size: 286.6732pt x 184.89217pt.
+ [25
+
+ </home/arvind/ICC_Presentation/Control-block-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <System-architecture.eps>
+(epstopdf)                    date: 2022-12-10 06:39:12
+(epstopdf)                    size: 244981 bytes
+(epstopdf)             Output file: <System-architecture-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-12-10 21:34:19
+(epstopdf)                    size: 73201 bytes
+(epstopdf)             Command: <repstopdf --outfile=System-architecture-eps-converted-to.pdf System-architecture.eps>
+(epstopdf)             \includegraphics on input line 362.
+Package epstopdf Info: Output file is already uptodate.
+<System-architecture-eps-converted-to.pdf, id=390, 410.53375pt x 143.53625pt>
+File: System-architecture-eps-converted-to.pdf Graphic file (type pdf)
+<use System-architecture-eps-converted-to.pdf>
+Package pdftex.def Info: System-architecture-eps-converted-to.pdf  used on input line 362.
+(pdftex.def)             Requested size: 328.42744pt x 114.82915pt.
+ [26
+
+ </home/arvind/ICC_Presentation/System-architecture-eps-converted-to.pdf>]
+Overfull \vbox (24.84383pt too high) detected at line 417
+ []
+
+[27
+
+]
+Overfull \vbox (24.84383pt too high) detected at line 417
+ []
+
+[28
+
+] [29
+
+]
+<Position-X-single.png, id=437, 582.175pt x 445.665pt>
+File: Position-X-single.png Graphic file (type png)
+<use Position-X-single.png>
+Package pdftex.def Info: Position-X-single.png  used on input line 456.
+(pdftex.def)             Requested size: 157.18935pt x 120.33115pt.
+<Position-Y-single.png, id=438, 593.21625pt x 446.66875pt>
+File: Position-Y-single.png Graphic file (type png)
+<use Position-Y-single.png>
+Package pdftex.def Info: Position-Y-single.png  used on input line 456.
+(pdftex.def)             Requested size: 160.17052pt x 120.60217pt.
+
+Overfull \vbox (0.29466pt too high) detected at line 456
+ []
+
+[30
+
+ </home/arvind/ICC_Presentation/Position-X-single.png> </home/arvind/ICC_Presentation/Position-Y-single.png>]
+<Position.png, id=455, 583.17876pt x 446.66875pt>
+File: Position.png Graphic file (type png)
+<use Position.png>
+Package pdftex.def Info: Position.png  used on input line 490.
+(pdftex.def)             Requested size: 157.46036pt x 120.60217pt.
+<Position-leader.png, id=456, 569.12625pt x 442.65375pt>
+File: Position-leader.png Graphic file (type png)
+<use Position-leader.png>
+Package pdftex.def Info: Position-leader.png  used on input line 490.
+(pdftex.def)             Requested size: 153.66614pt x 119.5181pt.
+ [31
+
+ </home/arvind/ICC_Presentation/Position.png> </home/arvind/ICC_Presentation/Position-leader.png>]
+<Position-X-minmax.png, id=470, 586.19pt x 447.6725pt>
+File: Position-X-minmax.png Graphic file (type png)
+<use Position-X-minmax.png>
+Package pdftex.def Info: Position-X-minmax.png  used on input line 518.
+(pdftex.def)             Requested size: 158.2734pt x 120.87318pt.
+<Position-Y-minmax.png, id=471, 608.2725pt x 448.67625pt>
+File: Position-Y-minmax.png Graphic file (type png)
+<use Position-Y-minmax.png>
+Package pdftex.def Info: Position-Y-minmax.png  used on input line 518.
+(pdftex.def)             Requested size: 164.23576pt x 121.1442pt.
+
+Overfull \hbox (2.46355pt too wide) in paragraph at lines 518--518
+ [] 
+ []
+
+[32
+
+ </home/arvind/ICC_Presentation/Position-X-minmax.png> </home/arvind/ICC_Presentation/Position-Y-minmax.png>] [33
+
+] [34
+
+] [35
+
+]
+<qrcode.png, id=504, 1029.8475pt x 1029.8475pt>
+File: qrcode.png Graphic file (type png)
+<use qrcode.png>
+Package pdftex.def Info: qrcode.png  used on input line 557.
+(pdftex.def)             Requested size: 133.88487pt x 133.88487pt.
+
+Overfull \vbox (10.11363pt too high) detected at line 557
+ []
+
+[36
+
+ </home/arvind/ICC_Presentation/qrcode.png>]
 \tf@nav=\write6
 \openout6 = `ICC_slides.nav'.
 
@@ -1187,27 +1405,27 @@ Package movie15 Warning: @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 (movie15)                @@ superseded by `media9'.           @@
 (movie15)                @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 257.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 257.
-(/home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/ICC_Presentation/ICC_slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 257.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 257.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 561.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 561.
+(/home/arvind/ICC_Presentation/ICC_slides.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 561.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 561.
 Package rerunfilecheck Info: File `ICC_slides.out' has not changed.
-(rerunfilecheck)             Checksum: BA74FFD5BDDCFC143F722C284D5A8081;1229.
+(rerunfilecheck)             Checksum: CED7DC6FF0CEC97207F5740AFFC03920;1397.
  ) 
 Here is how much of TeX's memory you used:
- 32222 strings out of 481239
- 670573 string characters out of 5920377
- 1096222 words of memory out of 5000000
- 46571 multiletter control sequences out of 15000+600000
- 533529 words of font info for 28 fonts, out of 8000000 for 9000
+ 32573 strings out of 481239
+ 677375 string characters out of 5920377
+ 1110834 words of memory out of 5000000
+ 46832 multiletter control sequences out of 15000+600000
+ 540412 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,15n,101p,866b,732s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on /home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/ICC_Presentation/ICC_slides.pdf (20 pages, 194005 bytes).
+ 61i,16n,101p,807b,955s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on /home/arvind/ICC_Presentation/ICC_slides.pdf (36 pages, 1194214 bytes).
 PDF statistics:
- 337 PDF objects out of 1000 (max. 8388607)
- 279 compressed objects within 3 object streams
- 60 named destinations out of 1000 (max. 500000)
- 313 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 601 PDF objects out of 1000 (max. 8388607)
+ 477 compressed objects within 5 object streams
+ 114 named destinations out of 1000 (max. 500000)
+ 435 words of extra memory for PDF output out of 10000 (max. 10000000)
 

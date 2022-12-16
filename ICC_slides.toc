@@ -4,4 +4,4 @@
 \beamer@sectionintoc {4}{Preliminaries}{12}{0}{2}
 \beamer@sectionintoc {6}{MASCOT:Structure and Features}{22}{0}{3}
 \beamer@sectionintoc {8}{Examples}{30}{0}{4}
-\beamer@sectionintoc {10}{Conclusion and Future Work}{34}{0}{5}
+\beamer@sectionintoc {10}{Conclusion and Future Work}{37}{0}{5}

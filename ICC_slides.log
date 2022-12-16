@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.7.30)  11 DEC 2022 12:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.7.30)  12 DEC 2022 12:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1179,37 +1179,37 @@ Package pdftex.def Info: Quadcopter-eps-converted-to.pdf  used on input line 192
  [12
 
  </home/arvind/ICC_Presentation/Quadcopter-eps-converted-to.pdf>]
-Overfull \vbox (21.84656pt too high) detected at line 252
+Overfull \vbox (7.62148pt too high) detected at line 252
  []
 
 [13
 
 ]
-Overfull \vbox (21.84656pt too high) detected at line 252
+Overfull \vbox (7.62148pt too high) detected at line 252
  []
 
 [14
 
 ]
-Overfull \vbox (21.84656pt too high) detected at line 252
+Overfull \vbox (7.62148pt too high) detected at line 252
  []
 
 [15
 
 ]
-Overfull \vbox (21.84656pt too high) detected at line 252
+Overfull \vbox (7.62148pt too high) detected at line 252
  []
 
 [16
 
 ]
-Overfull \vbox (21.84656pt too high) detected at line 252
+Overfull \vbox (7.62148pt too high) detected at line 252
  []
 
 [17
 
 ]
-Overfull \vbox (21.84656pt too high) detected at line 252
+Overfull \vbox (7.62148pt too high) detected at line 252
  []
 
 [18
@@ -1284,7 +1284,7 @@ Package epstopdf Info: Source file: <Control-block.eps>
 (epstopdf)             Command: <repstopdf --outfile=Control-block-eps-converted-to.pdf Control-block.eps>
 (epstopdf)             \includegraphics on input line 346.
 Package epstopdf Info: Output file is already uptodate.
-<Control-block-eps-converted-to.pdf, id=373, 477.785pt x 308.15125pt>
+<Control-block-eps-converted-to.pdf, id=376, 477.785pt x 308.15125pt>
 File: Control-block-eps-converted-to.pdf Graphic file (type pdf)
 <use Control-block-eps-converted-to.pdf>
 Package pdftex.def Info: Control-block-eps-converted-to.pdf  used on input line 346.
@@ -1301,7 +1301,7 @@ Package epstopdf Info: Source file: <System-architecture.eps>
 (epstopdf)             Command: <repstopdf --outfile=System-architecture-eps-converted-to.pdf System-architecture.eps>
 (epstopdf)             \includegraphics on input line 362.
 Package epstopdf Info: Output file is already uptodate.
-<System-architecture-eps-converted-to.pdf, id=390, 410.53375pt x 143.53625pt>
+<System-architecture-eps-converted-to.pdf, id=393, 410.53375pt x 143.53625pt>
 File: System-architecture-eps-converted-to.pdf Graphic file (type pdf)
 <use System-architecture-eps-converted-to.pdf>
 Package pdftex.def Info: System-architecture-eps-converted-to.pdf  used on input line 362.
@@ -1323,12 +1323,12 @@ Overfull \vbox (24.84383pt too high) detected at line 417
 ] [29
 
 ]
-<Position-X-single.png, id=437, 582.175pt x 445.665pt>
+<Position-X-single.png, id=439, 582.175pt x 445.665pt>
 File: Position-X-single.png Graphic file (type png)
 <use Position-X-single.png>
 Package pdftex.def Info: Position-X-single.png  used on input line 456.
 (pdftex.def)             Requested size: 157.18935pt x 120.33115pt.
-<Position-Y-single.png, id=438, 593.21625pt x 446.66875pt>
+<Position-Y-single.png, id=440, 593.21625pt x 446.66875pt>
 File: Position-Y-single.png Graphic file (type png)
 <use Position-Y-single.png>
 Package pdftex.def Info: Position-Y-single.png  used on input line 456.
@@ -1340,53 +1340,103 @@ Overfull \vbox (0.29466pt too high) detected at line 456
 [30
 
  </home/arvind/ICC_Presentation/Position-X-single.png> </home/arvind/ICC_Presentation/Position-Y-single.png>]
-<Position.png, id=455, 583.17876pt x 446.66875pt>
+File: Position-X-single.png Graphic file (type png)
+<use Position-X-single.png>
+Package pdftex.def Info: Position-X-single.png  used on input line 456.
+(pdftex.def)             Requested size: 157.18935pt x 120.33115pt.
+File: Position-Y-single.png Graphic file (type png)
+<use Position-Y-single.png>
+Package pdftex.def Info: Position-Y-single.png  used on input line 456.
+(pdftex.def)             Requested size: 160.17052pt x 120.60217pt.
+
+Overfull \vbox (0.29466pt too high) detected at line 456
+ []
+
+[31
+
+]
+<Position.png, id=466, 583.17876pt x 446.66875pt>
 File: Position.png Graphic file (type png)
 <use Position.png>
-Package pdftex.def Info: Position.png  used on input line 490.
+Package pdftex.def Info: Position.png  used on input line 491.
 (pdftex.def)             Requested size: 157.46036pt x 120.60217pt.
-<Position-leader.png, id=456, 569.12625pt x 442.65375pt>
+<Position-leader.png, id=467, 569.12625pt x 442.65375pt>
 File: Position-leader.png Graphic file (type png)
 <use Position-leader.png>
-Package pdftex.def Info: Position-leader.png  used on input line 490.
+Package pdftex.def Info: Position-leader.png  used on input line 491.
 (pdftex.def)             Requested size: 153.66614pt x 119.5181pt.
- [31
 
- </home/arvind/ICC_Presentation/Position.png> </home/arvind/ICC_Presentation/Position-leader.png>]
-<Position-X-minmax.png, id=470, 586.19pt x 447.6725pt>
-File: Position-X-minmax.png Graphic file (type png)
-<use Position-X-minmax.png>
-Package pdftex.def Info: Position-X-minmax.png  used on input line 518.
-(pdftex.def)             Requested size: 158.2734pt x 120.87318pt.
-<Position-Y-minmax.png, id=471, 608.2725pt x 448.67625pt>
-File: Position-Y-minmax.png Graphic file (type png)
-<use Position-Y-minmax.png>
-Package pdftex.def Info: Position-Y-minmax.png  used on input line 518.
-(pdftex.def)             Requested size: 164.23576pt x 121.1442pt.
-
-Overfull \hbox (2.46355pt too wide) in paragraph at lines 518--518
- [] 
+Overfull \vbox (4.95702pt too high) detected at line 491
  []
 
 [32
 
- </home/arvind/ICC_Presentation/Position-X-minmax.png> </home/arvind/ICC_Presentation/Position-Y-minmax.png>] [33
+ </home/arvind/ICC_Presentation/Position.png> </home/arvind/ICC_Presentation/Position-leader.png>]
+File: Position.png Graphic file (type png)
+<use Position.png>
+Package pdftex.def Info: Position.png  used on input line 491.
+(pdftex.def)             Requested size: 157.46036pt x 120.60217pt.
+File: Position-leader.png Graphic file (type png)
+<use Position-leader.png>
+Package pdftex.def Info: Position-leader.png  used on input line 491.
+(pdftex.def)             Requested size: 153.66614pt x 119.5181pt.
 
-] [34
-
-] [35
-
-]
-<qrcode.png, id=504, 1029.8475pt x 1029.8475pt>
-File: qrcode.png Graphic file (type png)
-<use qrcode.png>
-Package pdftex.def Info: qrcode.png  used on input line 557.
-(pdftex.def)             Requested size: 133.88487pt x 133.88487pt.
-
-Overfull \vbox (10.11363pt too high) detected at line 557
+Overfull \vbox (4.95702pt too high) detected at line 491
  []
 
-[36
+[33
+
+]
+<Position-X-minmax.png, id=488, 586.19pt x 447.6725pt>
+File: Position-X-minmax.png Graphic file (type png)
+<use Position-X-minmax.png>
+Package pdftex.def Info: Position-X-minmax.png  used on input line 520.
+(pdftex.def)             Requested size: 158.2734pt x 120.87318pt.
+<Position-Y-minmax.png, id=489, 608.2725pt x 448.67625pt>
+File: Position-Y-minmax.png Graphic file (type png)
+<use Position-Y-minmax.png>
+Package pdftex.def Info: Position-Y-minmax.png  used on input line 520.
+(pdftex.def)             Requested size: 164.23576pt x 121.1442pt.
+
+Overfull \hbox (2.46355pt too wide) in paragraph at lines 520--520
+ [] 
+ []
+
+[34
+
+ </home/arvind/ICC_Presentation/Position-X-minmax.png> </home/arvind/ICC_Presentation/Position-Y-minmax.png>]
+File: Position-X-minmax.png Graphic file (type png)
+<use Position-X-minmax.png>
+Package pdftex.def Info: Position-X-minmax.png  used on input line 520.
+(pdftex.def)             Requested size: 158.2734pt x 120.87318pt.
+File: Position-Y-minmax.png Graphic file (type png)
+<use Position-Y-minmax.png>
+Package pdftex.def Info: Position-Y-minmax.png  used on input line 520.
+(pdftex.def)             Requested size: 164.23576pt x 121.1442pt.
+
+Overfull \hbox (2.46355pt too wide) in paragraph at lines 520--520
+ [] 
+ []
+
+[35
+
+] [36
+
+] [37
+
+] [38
+
+]
+<qrcode.png, id=531, 1029.8475pt x 1029.8475pt>
+File: qrcode.png Graphic file (type png)
+<use qrcode.png>
+Package pdftex.def Info: qrcode.png  used on input line 559.
+(pdftex.def)             Requested size: 133.88487pt x 133.88487pt.
+
+Overfull \vbox (10.11363pt too high) detected at line 559
+ []
+
+[39
 
  </home/arvind/ICC_Presentation/qrcode.png>]
 \tf@nav=\write6
@@ -1405,27 +1455,27 @@ Package movie15 Warning: @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 (movie15)                @@ superseded by `media9'.           @@
 (movie15)                @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 561.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 561.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 563.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 563.
 (/home/arvind/ICC_Presentation/ICC_slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 561.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 561.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 563.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 563.
 Package rerunfilecheck Info: File `ICC_slides.out' has not changed.
-(rerunfilecheck)             Checksum: CED7DC6FF0CEC97207F5740AFFC03920;1397.
+(rerunfilecheck)             Checksum: B9E51CCA19E9C45FE8D8C21632F8B063;1397.
  ) 
 Here is how much of TeX's memory you used:
- 32573 strings out of 481239
- 677375 string characters out of 5920377
+ 32628 strings out of 481239
+ 678294 string characters out of 5920377
  1110834 words of memory out of 5000000
- 46832 multiletter control sequences out of 15000+600000
- 540412 words of font info for 53 fonts, out of 8000000 for 9000
+ 46872 multiletter control sequences out of 15000+600000
+ 545124 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,16n,101p,807b,955s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on /home/arvind/ICC_Presentation/ICC_slides.pdf (36 pages, 1194214 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on /home/arvind/ICC_Presentation/ICC_slides.pdf (39 pages, 1218436 bytes).
 PDF statistics:
- 601 PDF objects out of 1000 (max. 8388607)
- 477 compressed objects within 5 object streams
- 114 named destinations out of 1000 (max. 500000)
+ 638 PDF objects out of 1000 (max. 8388607)
+ 508 compressed objects within 6 object streams
+ 120 named destinations out of 1000 (max. 500000)
  435 words of extra memory for PDF output out of 10000 (max. 10000000)
 

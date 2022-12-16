@@ -182,12 +182,12 @@
 \subsection*{Frame of Reference}
 %-----------------------------------------------------------/
 \begin{frame}
-	\frametitle{Frame of Reference}
+	\frametitle{Frame of Reference\footnote{P. I. Corke \textit{et al.},Robotics, vision and control: fundamental algorithms in MATLAB}}
 	\begin{figure}[h!]
 		\centering
 		\includegraphics[scale=0.5]{Quadcopter.eps}
 		\caption{Frame of Reference}
-		\label{Fig:Frame_of_Reference}
+		\label{Fig:Frame_of_Reference.}
 	\end{figure}
 \end{frame}
 %%-----------------------------------------------------------
@@ -202,7 +202,7 @@
 			      \mathbf{T} = \Sigma (b {\omega}_{i}^2)
 		      \end{equation}
 		\pause
-		\vspace*{-0.3 cm}
+		\vspace*{-0.4 cm}
 		\item The translation dynamics of the quadcopter in $\{E\}$ is
 		      \begin{equation}
 			      m\dot{\mathbf{v}}^{E}=\begin{bmatrix}
@@ -212,7 +212,7 @@
 			      \end{bmatrix}^{T} - B\mathbf{v}\label{eq:trans_dynamics}
 		      \end{equation}
 			  \pause
-			  \vspace*{-0.3 cm}
+			  \vspace*{-0.4 cm}
 		\item Torque about $x$ and $y$ axes is
 		      \begin{equation}
 			      \tau_{x}=d T_{4}-d T_{2} = db(\bar{\omega}_{4}^{2}-\bar{\omega}_{2}^{2})
@@ -221,19 +221,19 @@
 			      \tau_{y}=d T_{1}-d T_{3} = db(\bar{\omega}_{1}^{2}-\bar{\omega}_{3}^{2})
 		      \end{equation}
 			  \pause
-			  \vspace*{-0.3 cm}
+			  \vspace*{-0.4 cm}
 		\item The total reaction torque about $z$-axis is
 		      \begin{equation}
 			      \tau_{z} =Q_{1}-Q_{2}+Q_{3}-Q_{4}=k\left(\bar{\omega}_{1}^{2}+\bar{\omega}_{3}^{2}-\bar{\omega}_{2}^{2}-\bar{\omega}_{4}^{2}\right)\label{eq:react_torque_z}
 		      \end{equation}
 			  \pause
-			  \vspace*{-0.3 cm}
+			  \vspace*{-0.4 cm}
 		\item By Euler's equation of motion rotational acceleration is
 		      \begin{equation}
 			      J\boldsymbol{\Dot{\omega}}=-\boldsymbol{\omega} \boldsymbol{\times}J \boldsymbol{\omega}+\mathbf{\Gamma}
 		      \end{equation}
 			  \pause
-			  \vspace*{-0.3 cm}
+			  \vspace*{-0.4 cm}
 		\item Overall quadcopter motion equation
 		      \begin{align}
 			      \begin{bmatrix}
@@ -366,7 +366,7 @@
 	\vspace*{-0.2 cm}
 	\begin{block}{Feature}
 		\begin{itemize}
-			\item Easy Modification.
+			\item Easy modification.
 			\item Supports multiple languages Python, Cpp, Java.
 			\item Flexibility with no. of agents.
 		\end{itemize}
@@ -435,7 +435,7 @@
 			      a_{y} = K_{p_{y}}\left(p_{y}^{*}-p_{y}\right)+K_{d_{y}}\left(\dot{p}_{y}^{*}-\dot{p}{y}\right)
 		      \end{equation*}
 	\end{itemize}
-
+	\pause
 	\frametitle{Way-Point Navigation}
 	\begin{minipage}{0.47\textwidth}
 		\begin{figure}[h!]
@@ -460,7 +460,7 @@
 	\frametitle{Consensus Algorithm (Linear)}
 	\begin{itemize}
 		\item A leaderless asymptotic consensus and leader follower is implemented.
-		\item The control algorithms used is as follows:
+		\item The control algorithms used is as follows:\footnote{A.Joshi\textit{ et al.} Implementation of distributed consensus on an outdoor testbed,2016 ECC}
 		      \begin{equation*}
 			      \textbf{f}_{i}^{E}=\left\{\begin{array}{l}
 				      \sum_{j = 1}^{n} a_{ij}\left(\mathbf{p}{j}^{E}-\mathbf{p}{i}^{E}\right)-\beta \textbf{v}_{i}^{E} \text { if } \alpha_{i} \in \mathbf{F} \\
@@ -469,6 +469,7 @@
 			      \end{array}\right.
 		      \end{equation*}
 	\end{itemize}
+	\pause
 	\begin{minipage}{0.47\textwidth}
 		\begin{figure}[h!]
 			\centering
@@ -494,11 +495,12 @@
 	\frametitle{Min-Max Time Consensus}
 	\begin{itemize}
 		\item A non linear Min-Max time consensus Algorithm is implemented.
-		\item The Control Law used is
+		\item The Control Law used is \footnote{A. Joshi\textit{ et al.} Implementation of min-max time consensus tracking on a multi-quadrotor testbed,2019 ECC}
 		      \begin{equation*}
 			      \mathbf{f}^E_c=\beta_c\text{sign}(2(\beta_c-\beta_p)(\mathbf{p}_c-\mathbf{p}_p)+(\mathbf{v}_c-\mathbf{v}_p)^2\text{sign}(\mathbf{v}_c-\mathbf{v}_p))
 		      \end{equation*}
 	\end{itemize}
+	\pause
 	\begin{minipage}{0.47\textwidth}
 		\begin{figure}[h!]
 			\centering
